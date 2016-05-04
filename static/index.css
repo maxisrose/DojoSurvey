@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 1px blue solid;
+}
+.wrap{
+	margin: 0 auto;
+	width: 75%;
+	border: 1px;
+	text-align: center;
+}
+p{
+	color: red;
+}
